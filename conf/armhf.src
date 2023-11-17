@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/mautrix/whatsapp/releases/download/v0.5.0/mautrix-whatsapp-arm
-SOURCE_SUM=2812c2e69df23f5a716e23c2fc6152d505e6c9d8e414690cc79d3a11d2fd630c
+SOURCE_URL=https://github.com/mautrix/whatsapp/releases/download/v0.10.4/mautrix-whatsapp-arm
+SOURCE_SUM=7fc6c2ea6a597a88edaf8c670d937d0424987a543118eba35acd1f5fc13ca127
 SOURCE_SUM_PRG=sha256sum
 SOURCE_IN_SUBDIR=false
 SOURCE_FILENAME=mautrix-whatsapp
